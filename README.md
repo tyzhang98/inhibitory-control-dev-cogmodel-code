@@ -2,7 +2,7 @@
 
 This repository contains the source code for our paper "Two Systems, Two Timelines: Computational Evidence for Dissociable Development in Inhibitory Control Across Childhood and Adolescence," under review at *Child Development*.
 
-![Inhibitory Control Development](Figure1.png)
+![Inhibitory Control Development](Inhibitory-control-dev-cogmodel-code/Figure 1.png) 
 *Fig. 1. Schematic diagram of the study design and analysis pipelines.*
 
 ---
